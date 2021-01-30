@@ -1,0 +1,8 @@
+Microsoft VS Code:
+https://code.visualstudio.com/docs/python/tutorial-flask
+
+Doc. de Flask:
+https://flask.palletsprojects.com/en/1.1.x/
+
+Página de los desarrolladores de Flask:
+https://palletsprojects.com/p/flask/
